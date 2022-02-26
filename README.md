@@ -1,5 +1,5 @@
 # Design of a Pseudo Dynamic Latched Comparator in 28nm CMOS Technology
-This repository presents the design of Pseudo dynamic latched comparator implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
+This repository presents the design of Pseudo dynamic latched comparator implemented using Synopsys Custom Compiler on 28nm CMOS Technology.
 
 ## **ABSTRACT**
 A 28 NM CMOS Pseudo Dynamic Latched Comparator is proposed designed and Implemented using Synopsys Software. The comparator is a key building block for applications where digital information needs to be recovered from analog signals, such as analog-to-digital (A/D) converters, I/O data receivers, memory bit line detectors, etc. The trend of achieving both higher speed and lower power consumption in these applications makes dynamic latch comparators very attractive. We can verify the output using Circuit Waveforms. This complete design and implementation are done using VLSI technology which has features such as high speed, low power, low cost and small size.
